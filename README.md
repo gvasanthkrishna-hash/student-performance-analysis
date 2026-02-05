@@ -54,6 +54,6 @@ outstanding performance and CC indicates satisfactory performance.
 1. Clone the repository
 
 ## Author
-Name: Vasanth
+Name: Gonela Vasanth Krishna
 Department: Artificial Intelligence and Data Science
 Project Type:Mini Project
