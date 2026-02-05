@@ -1,2 +1,24 @@
-# student-performance-analysis
-This project focuses on analyzing student academic performance using Python. The dataset includes information such as gender, attendance, weekly study hours, and grade categories. Data analysis techniques are applied to study how these factors influence student performance.
+# Student Performance Data Analysis
+
+## Description
+This project analyzes student academic performance using Python.  
+It calculates average marks, pass percentage, and identifies top performers.
+Basic visualizations are used to understand the results.
+
+## Technologies Used
+- Python
+- Pandas
+- Matplotlib
+
+## Features
+- Student-wise average calculation
+- Pass/Fail classification
+- Pass percentage analysis
+- Data visualization
+
+## How to Run
+1. Install required libraries  
+   pip install -r requirements.txt  
+
+2. Run the program  
+   python analysis.py
